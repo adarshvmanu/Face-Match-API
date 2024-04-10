@@ -6,7 +6,7 @@ This Flask API provides an endpoint `/verify_faces` for performing face verifica
 ## Setup
 1. Clone the repository to your local machine:
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/adarshvmanu/Face-Match-API.git
    ```
 
 2. Navigate to the project directory:
